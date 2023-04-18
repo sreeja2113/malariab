@@ -12,7 +12,7 @@ app.use(
   cors(
     (origin = [
       "http://localhost:3000",
-      "https://web-production-11881.up.railway.app/",
+      "https://flask-production-8563.up.railway.app/",
     ])
   )
 );
